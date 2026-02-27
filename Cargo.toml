@@ -1,0 +1,11 @@
+[package]
+name = "deuterium"
+version = "0.1.0"
+edition = "2021"
+authors = ["Leah Attebury <leahnyx@proton.me>"]
+description = "A heavy-duty Rust project"
+
+[dependencies]
+serde = { version = "1.0", features = ["derive"] }
+tokio = { version = "1.0", features = ["full"] }
+anyhow = "1.0"
