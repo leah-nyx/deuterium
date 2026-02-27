@@ -1,2 +1,4 @@
 # deuterium
-rust cli browser or some shit
+rust cli browser for experimentation purposes
+
+# WIP!!!!!!!!!!
